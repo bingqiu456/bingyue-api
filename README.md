@@ -1,4 +1,4 @@
-<img src="C:\Users\bingyue\Desktop\bingyue-vip\bingyue-api\logo.png" alt="logo" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/bingqiu456/bingyue-api/main/logo.png" alt="logo" style="zoom:33%;" />
 
 <center><h1>冰月API</h1></center>
 
