@@ -1,3 +1,4 @@
+<center><h1>要不跑路吧<h1><center>
 <center><img src="https://raw.githubusercontent.com/bingqiu456/bingyue-api/main/logo_bingyue.png" alt="logo" style="zoom:2%;" /></center>
 
 <center><h1>冰月API</h1></center>
