@@ -1,6 +1,5 @@
 <?php
 ## 作者:滨河!
-## 冰月api https://apii.bingyue.xyz
 $msg = $_GET['msg'];
 $type = $_GET['type'];
 class bilibili
